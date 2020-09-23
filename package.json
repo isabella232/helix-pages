@@ -1,6 +1,6 @@
 {
   "name": "@adobe/helix-pages",
-  "version": "4.0.4",
+  "version": "4.0.6",
   "private": true,
   "description": "Helix Pages is the Helix project behind [https://*.project-helix.page/](https://www.project-helix.page/)",
   "scripts": {
@@ -22,11 +22,11 @@
   "homepage": "https://github.com/adobe/helix-pages#readme",
   "dependencies": {
     "@adobe/helix-fetch": "1.9.1",
-    "@adobe/helix-pipeline": "https://github.com/adobe/helix-pipeline.git#helix-lock-support",
-    "@adobe/helix-shared": "7.12.0",
+    "@adobe/helix-pipeline": "11.2.4",
+    "@adobe/helix-shared": "7.13.0",
     "@adobe/openwhisk-action-logger": "2.2.0",
     "@adobe/openwhisk-action-utils": "4.3.0",
-    "algoliasearch": "4.4.0",
+    "algoliasearch": "4.5.1",
     "ferrum": "1.7.0",
     "lodash.pick": "4.4.0",
     "lodash.pickby": "4.6.0",
@@ -38,23 +38,23 @@
     "@adobe/helix-fetch": "1.9.1",
     "@semantic-release/changelog": "5.0.1",
     "@semantic-release/git": "9.0.0",
-    "@semantic-release/github": "7.0.7",
+    "@semantic-release/github": "7.1.1",
     "chai": "4.2.0",
     "chai-http": "4.3.0",
     "dotenv": "8.2.0",
-    "eslint": "7.8.1",
+    "eslint": "7.9.0",
     "eslint-plugin-header": "3.1.0",
     "eslint-plugin-import": "2.22.0",
     "fs-extra": "9.0.1",
     "jquery": "3.5.1",
     "jsdom": "16.4.0",
-    "mocha": "7.2.0",
+    "mocha": "8.1.3",
     "mocha-junit-reporter": "2.0.0",
     "mocha-parallel-tests": "2.3.0",
     "nock": "13.0.4",
     "nyc": "15.1.0",
     "proxyquire": "2.1.3",
-    "semantic-release": "17.1.1",
-    "yargs": "15.4.1"
+    "semantic-release": "17.1.2",
+    "yargs": "16.0.3"
   }
 }
